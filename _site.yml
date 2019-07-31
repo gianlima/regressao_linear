@@ -1,9 +1,16 @@
-name: "my-website"
+name: "Gian Lima"
 output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "Gian Lima"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Estudos"
+      menu:
+      - text: "Conteúdo de regressão"
+      - text: "Módulo 3 - Regressão linear múltipla"
+        href: regressao_multipla.html
+output:
+  html_document:
+    theme: flatly
+    highlight: pygments

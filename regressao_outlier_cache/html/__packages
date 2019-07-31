@@ -1,0 +1,14 @@
+base
+mvtnorm
+survival
+MASS
+TH.data
+multcomp
+ggplot2
+faraway
+magrittr
+carData
+car
+corrplot
+effects
+knitr

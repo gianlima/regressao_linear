@@ -1,0 +1,38 @@
+unnamed-chunk-1	data	pairs	require	teengamb
+unnamed-chunk-2	~	lm	summary	teengamb
+unnamed-chunk-3	%>%	.	ajuste	head	resid
+unnamed-chunk-4	$	%>%	.	^	ajuste	head	resid	sqrt	summary
+unnamed-chunk-5	%>%	.	ajuste	head	rstandard
+unnamed-chunk-6	%>%	.	ajuste	head	rstudent
+unnamed-chunk-7	%>%	.	ajuste	head	rstandard
+unnamed-chunk-8	ajuste	fitted	par	plot	rstudent
+unnamed-chunk-9	ajuste	ncvTest
+unnamed-chunk-10	ajuste	rstudent	shapiro.test
+unnamed-chunk-11	ajuste	qqPlot
+unnamed-chunk-12	$	~	c	lines	lowess	par	plot	res	teengamb
+unnamed-chunk-13	ajuste	c	par	termplot
+unnamed-chunk-14	ajuste	c	par	plot
+unnamed-chunk-15	ajuste	crPlots
+unnamed-chunk-16	ajuste	residualPlots
+unnamed-chunk-17	ajuste	marginalModelPlots
+unnamed-chunk-18	ajuste	influenceIndexPlot
+unnamed-chunk-19	summary	teengamb
+unnamed-chunk-20	ajuste	update
+unnamed-chunk-21	ajuste	ajuste_v2	compareCoefs
+unnamed-chunk-22	ajuste_v2	c	par	plot	qqPlot
+unnamed-chunk-23	ajuste	dfbetaPlots
+unnamed-chunk-24	ajuste	influence.measures	summary
+unnamed-chunk-25	require
+unnamed-chunk-26	cor	corrplot.mixed	round	seatpos
+unnamed-chunk-27	~	lm	seatpos	summary
+unnamed-chunk-28	$	~	lm	seatpos	summary
+unnamed-chunk-29	modelo	vif
+unnamed-chunk-30	modelo	sqrt	vif
+unnamed-chunk-31	~	lm	modelo	seatpos	summary
+unnamed-chunk-32	~	lm	seatpos	summary
+unnamed-chunk-33	princomp	seatpos
+unnamed-chunk-34	pca	summary
+unnamed-chunk-35	$	pca
+unnamed-chunk-36	$	%>%	.	head	pca
+unnamed-chunk-37	%>%	.	cor	head	scores
+unnamed-chunk-38	$	~	data.frame	lm	scores	seatpos	summary
