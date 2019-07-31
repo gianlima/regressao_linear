@@ -2,5 +2,10 @@
 title: "Regressão Linear"
 ---
 
-**Observações**: O presente material foi preparado pelo professor Cesar Taconeli.   
-Esta página serve apenas como visualização dos códigos da disciplina. Conferir a outra aba.
+<div class="panel panel-primary">
+  <div class="panel-heading">Observações</div>
+  <div class="panel-body">
+O presente material foi preparado pelo professor [Cesar Taconeli](https://docs.ufpr.br/~taconeli/).   
+Esta página serve apenas como visualização dos códigos da [disciplina](https://docs.ufpr.br/~taconeli/CE07119/CE07119.html). Conferir a outra aba.
+</div>
+</div>

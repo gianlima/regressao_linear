@@ -4,12 +4,24 @@ navbar:
   title: "Gian Lima"
   left:
     - text: "Home"
-      href: index.html
-    - text: "Estudos"
+      href: https://gianlima.github.io/
+    - text: "Regressão Linear"
       menu:
       - text: "Conteúdo de regressão"
       - text: "Módulo 3 - Regressão linear múltipla"
         href: regressao_multipla.html
+      - text: "Módulo 4 - Técnicas de diagnóstico"
+        href: regressao_outlier.html
+      - text: "Módulo 5 - Medidas corretivas dos erros"
+        href: regressao_problemas_suposicoes.html
+      - text: "Módulo 6 - Seleção de modelos"
+        href: regressao_selecao_modelos.html
+      - text: "Módulo 7 - Regressão com covariáveis categóricas"
+        href: regressao_categorica.html
+  right:
+    - text: GitHub
+      icon: fa-github fa-lg
+      href: https://github.com/gianlima/r-exams-tutorial
 output:
   html_document:
     theme: flatly
